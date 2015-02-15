@@ -1,0 +1,11 @@
+Dependencies for Project 'UART_Bluetooh_HC06', Target 'UART_Bluetooth_HC06': (DO NOT MODIFY !)
+F (.\startup.s)(0x51974262)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\RV31\INC-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\CMSIS\Include-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.c)(0x54BFBB94)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\RV31\INC-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\CMSIS\Include-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (PLL.h)(0x54A6A8C0)
+I (UART.h)(0x54BFB292)
+F (.\PLL.c)(0x54B3E315)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\RV31\INC-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\CMSIS\Include-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (PLL.h)(0x54A6A8C0)
+F (.\SysTick.c)(0x54A6F9A0)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\RV31\INC-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\CMSIS\Include-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\systick.o --omf_browse .\systick.crf --depend .\systick.d)
+I (SysTick.h)(0x54A6F95D)
+F (.\UART.c)(0x54BFA9E8)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\RV31\INC-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\CMSIS\Include-I C:\Users\jhou\Documents\JieHou\Learning\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (UART.h)(0x54BFB292)
